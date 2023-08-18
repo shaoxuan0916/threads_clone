@@ -6,7 +6,7 @@ Link: https://threads-clone-topaz.vercel.app/
 
 ###### Skill(s) that I've used in this project:
 - Next.js 13
-- Typscript
+- Typescript
 - Mongo DB / Mongoose
 - Tailwind CSS
 - Shadcn/ui
